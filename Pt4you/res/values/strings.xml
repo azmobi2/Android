@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">PT4You v1</string>
+
+  <string name="austria">Austria</string>
+  <string name="belgium">Belgica</string>
+  <string name="bulgaria">Bulgaria</string>
+  <string name="cyprus">Chipre</string>
+  <string name="czech_republic">República Chéca</string>
+  <string name="denmark">Dinamarca</string>
+  <string name="estonia">Estonia</string>
+  <string name="finland">Finlandia</string>
+  <string name="france">França</string>
+  <string name="germany">Alemanha</string>
+  <string name="greece">Grécia</string>
+  <string name="hungary">Hungria</string>
+  <string name="ireland">Irlanda</string>
+  <string name="italy">Itália</string>
+  <string name="latvia">Letônia</string>
+  <string name="lithuania">Lituania</string>
+  <string name="luxembourg">Luxemburgo</string>
+  <string name="malta">Malta</string>
+  <string name="netherlands">Holanda</string>
+  <string name="poland">Polonia</string>
+  <string name="portugal">Portugal</string>
+  <string name="romania">Romênia</string>
+  <string name="slovakia">Eslováquia</string>
+  <string name="slovenia">Eslovênia</string>
+  <string name="spain">Espanha</string>
+  <string name="sweden">Suécia</string>
+  <string name="united_kingdom">Reino Unido</string>
+
+  <string name="austria_url">http://pt.m.wikipedia.org/wiki/Austria</string>
+  <string name="belgium_url">http://pt.m.wikipedia.org/wiki/Belgica</string>
+  <string name="bulgaria_url">http://pt.m.wikipedia.org/wiki/Bulgaria</string>
+  <string name="cyprus_url">http://pt.m.wikipedia.org/wiki/Chipre</string>
+  <string name="czech_republic_url">http://pt.m.wikipedia.org/wiki/Republica_checa</string>
+  <string name="denmark_url">http://pt.m.wikipedia.org/wiki/Dinamarca</string>
+  <string name="estonia_url">http://pt.m.wikipedia.org/wiki/Estonia</string>
+  <string name="finland_url">http://pt.m.wikipedia.org/wiki/Finlândia</string>
+  <string name="france_url">http://pt.m.wikipedia.org/wiki/França</string>
+  <string name="germany_url">http://pt.m.wikipedia.org/wiki/Alemanha</string>
+  <string name="greece_url">http://pt.m.wikipedia.org/wiki/Grécia</string>
+  <string name="hungary_url">http://pt.m.wikipedia.org/wiki/Hungria</string>
+  <string name="ireland_url">http://pt.m.wikipedia.org/wiki/Irlanda</string>
+  <string name="italy_url">http://pt.m.wikipedia.org/wiki/Italia</string>
+  <string name="latvia_url">http://pt.m.wikipedia.org/wiki/Letonia</string>
+  <string name="lithuania_url">http://pt.m.wikipedia.org/wiki/Lituania</string>
+  <string name="luxembourg_url">http://pt.m.wikipedia.org/wiki/Luxemburgo</string>
+  <string name="malta_url">http://pt.m.wikipedia.org/wiki/Malta</string>
+  <string name="netherlands_url">http://pt.m.wikipedia.org/wiki/Holanda</string>
+  <string name="poland_url">http://pt.m.wikipedia.org/wiki/Polonia</string>
+  <string name="portugal_url">http://pt.m.wikipedia.org/wiki/Portugal</string>
+  <string name="romania_url">http://pt.m.wikipedia.org/wiki/Roménia</string>
+  <string name="slovakia_url">http://pt.m.wikipedia.org/wiki/Eslovaquia</string>
+  <string name="slovenia_url">http://pt.m.wikipedia.org/wiki/Eslovénia</string>
+  <string name="spain_url">http://pt.m.wikipedia.org/wiki/Espanha</string>
+  <string name="sweden_url">http://pt.m.wikipedia.org/wiki/Suecia</string>
+  <string name="united_kingdom_url">http://pt.m.wikipedia.org/wiki/Reino_unido</string>
+</resources>
